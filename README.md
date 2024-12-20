@@ -1,1 +1,5 @@
-# Details_Management_Backend
+Technologies Used- 
+Java 17
+SpringBoot
+MySql
+Postman
